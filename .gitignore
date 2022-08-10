@@ -1,0 +1,5 @@
+ansible.cfg
+
+*.log
+*.tmp
+*.exe
